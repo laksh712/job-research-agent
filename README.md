@@ -34,7 +34,7 @@ hardcoded steps.
 ## Run locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/job-research-agent
+git clone https://github.com/laksh712/job-research-agent.git
 cd job-research-agent
 pip install -r requirements.txt
 
@@ -44,10 +44,6 @@ TAVILY_API_KEY=your_key
 
 streamlit run app.py
 ```
-
-## Live demo
-
-[your-app.streamlit.app](https://your-app.streamlit.app)
 
 ## What I learned building this
 
